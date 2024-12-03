@@ -9,12 +9,11 @@
 - [Introduction](#Introduction)
 - [Overview](#Overview)
 - [Instructions](#Instructions)
-- [Acknowledgements](#Acknowledgements)
 - [Reference](#Reference)
 
 ## Introduction
 
-This project aims to quantify the morphological indicators of Milan through Momepy, showing the whole process from data input to calculation and obtaining the results of each indicator. [Momepy]([https://github.com](https://docs.momepy.org/en/stable/#citing)) is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
+This project aims to quantify the morphological indicators of Milan through Momepy, showing the whole process from data input to calculation and obtaining the results of each indicator. [Momepy](https://github.com](https://docs.momepy.org/en/stable/#citing) is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
 
 ## Overview
 
@@ -22,11 +21,7 @@ This project aims to quantify the morphological indicators of Milan through Mome
 
 ## Instructions
 
-For detailed usage guide and environment configuration, please refer to [Momepy]([https://github.com](https://docs.momepy.org/en/stable/#citing))
-
-## Acknowledgements
-
-Thanks to my collaborators Shangyu Lou. She has made great contributions to methodology, data processing and model training.
+For detailed usage guide and environment configuration, please refer to [Momepy](https://github.com](https://docs.momepy.org/en/stable/#citing)
 
 ## Reference
 
