@@ -22,7 +22,7 @@ This project aims to quantify the morphological indicators of Milan through Mome
 
 ## Instructions
 
-This project has two main step: data processing and metrics calculation.<br>
+For detailed usage guide and environment configuration, please refer to Momepy.
 
 Environment Configuration：<br>
 
@@ -42,5 +42,5 @@ Thanks to my collaborators Shangyu Lou. She has made great contributions to meth
 
 ## Reference
 
-If you have any question, be free to contact me: ziqi.cui@polimi.it
+Fleischmann, M. (2019) ‘momepy: Urban Morphology Measuring Toolkit’, Journal of Open Source Software, 4(43), p. 1807. doi: 10.21105/joss.01807.
  
