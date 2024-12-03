@@ -21,7 +21,7 @@ This project aims to quantify the morphological indicators of Milan through Mome
 
 ## Instructions
 
-For detailed usage guide and environment configuration, please refer to [Momepy](https://github.com](https://docs.momepy.org/en/stable/#citing)
+For detailed usage guide and environment configuration, please refer to [Momepy](https://docs.momepy.org/en/stable/#citing)
 
 ## Reference
 
